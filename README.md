@@ -8,8 +8,7 @@ This is a **React.js** application that connects to an Ethereum wallet (MetaMask
 - **Optimism**
 - **Polygon**
 - **Base (Coinbase's L2)**
-- **Vana**
-
+  
 The app also allows users to disconnect their wallets and revoke permissions to prevent automatic reconnection.
 
 ---
